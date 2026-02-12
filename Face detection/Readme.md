@@ -35,7 +35,7 @@ pip install opencv-python
 📁 Project Structure
 Face_Detection_Project/
 │
-├── face_capture.py      # Main Python file
+├── Face_detection.py      # Main Python file
 ├── dataset/             # Folder where images are saved
 └── README.md            # Project documentation
 
@@ -50,7 +50,7 @@ Navigate to the project folder.
 
 Run the script:
 
-python face_capture.py
+python Face_detection.py 
 
 
 Allow camera access if prompted.
